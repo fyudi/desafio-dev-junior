@@ -31,7 +31,7 @@ Considerando os <a href="https://gist.github.com/maplinkapi/6589077" target="_bl
 
 Você pode realizar a implementação do seu código na linguagem de programação de sua preferência. Use sua criatividade para construí-lo. 
 
-O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação.
+O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação e incluindo seu nome completo para identificação.
 
 Qualquer dúvida, você pode enviar um e-mail para rhti@maplink.com.br.
 
