@@ -10,7 +10,7 @@ Nós disponibilizamos <a href="https://gist.github.com/maplinkapi/6589077" targe
 Deve-se utilizar o web services de rotas da MapLink para realizar esta tarefa. Você encontrará detalhes de uso no link
 <a href="http://dev.maplink.com.br/webservices/rotas/" target="_blank">dev.maplink.com.br/webservices/rotas/</a>. Fique a vontade para escolher o método a ser usado e decidir os valores de outros parâmetros não definidos aqui.
 
-Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso fornecida junto ao email.
+Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar a seguinte chave de acesso: c13iyCvmcC9mzwkLd0LCbCBHcXYD5mUA5m2jNGutNXK6NJc6NJt=
 
 O resultado que esperamos é o desenvolvimento de um código para a leitura do arquivo de entrada, cálculo da rota através dos web services descritos acima e composição de um arquivo de saída no formato json, contendo os seguintes dados por rota traçada:
 
