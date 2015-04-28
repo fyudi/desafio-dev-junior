@@ -12,9 +12,6 @@ Deve-se utilizar o web services de rotas da MapLink para realizar esta tarefa. V
 
 Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso fornecida junto ao email.
 
-Caso você opte por trabalhar exclusivamente com Javascript, use esta chave:
-<b>ymYmaxLXdMBJRmLgendrG0RjGYOIbvLXOwBvSJvgNMpPSAFAGKdAOKFgTmzPTKs9</b>
-
 O resultado que esperamos é o desenvolvimento de um código para a leitura do arquivo de entrada, cálculo da rota através dos web services descritos acima e composição de um arquivo de saída no formato json, contendo os seguintes dados por rota traçada:
 
 * Id;
