@@ -10,8 +10,7 @@ Nós disponibilizamos <a href="https://gist.github.com/maplinkapi/6589077" targe
 Deve-se utilizar o web services de rotas da MapLink para realizar esta tarefa. Você encontrará detalhes de uso no link
 <a href="http://dev.maplink.com.br/webservices/rotas/" target="_blank">dev.maplink.com.br/webservices/rotas/</a>. Fique a vontade para escolher o método a ser usado e decidir os valores de outros parâmetros não definidos aqui.
 
-Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso. Você deve utilizar a seguinte:
-<b>c13iyCvmcC9mzwkLd0LCbmYC5mUF5m2jNGNtNGt6NmK6NJK=</b>
+Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar uma chave de acesso fornecida junto ao email.
 
 Caso você opte por trabalhar exclusivamente com Javascript, use esta chave:
 <b>ymYmaxLXdMBJRmLgendrG0RjGYOIbvLXOwBvSJvgNMpPSAFAGKdAOKFgTmzPTKs9</b>
